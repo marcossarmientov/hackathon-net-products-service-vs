@@ -1,0 +1,6 @@
+@hackathon_net_products_service_vs_HostAddress = http://localhost:5119
+
+GET {{hackathon_net_products_service_vs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
